@@ -1,1 +1,3 @@
-# Gait_Analysis
+# Gait Analysis
+The project focuses on studying and analyzing different gait factors, correlations and effects of speed and inclination with angles at various joints and other variables. The main motive to work in this project is to find unseen factors that influence the gait patterns and to analyze the optimum factors to prevent gait related injuries.
+For the data analysis, Chi square test was used for categorical value and Pearson test for numerical data. Tolerance of 0.005 was considered and correlation and null hypothesis was verified and accordingly the output was derived. Dynamic time warping (DTW) is an algorithm to measure the similarity between two temporal sequences, which may change in speed. F
